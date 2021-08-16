@@ -1,5 +1,4 @@
 datetime
 requests
 Cython
-crypto
 cryptography
