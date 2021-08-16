@@ -1,8 +1,5 @@
-json
-time
 datetime
 requests
-smtplib
 Cython
-crypto
+pycrypto
 cryptography
