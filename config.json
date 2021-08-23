@@ -1,19 +1,19 @@
 {
     "user": [
         {
-            "username": "2018212719",
-            "password": "Ysj1181832103",
-            "location": "安徽省合肥市包河区",
-            "serverChan": "SCT59092TXjyst9KPcrvUovJCoH4SLmg5",
-            "email":"1181832103@qq.com"
+            "username": "学号",
+            "password": "信息门户对应密码",
+            "location": "打卡地址",
+            "serverChan": "SCT59092TXjyst9KPcrvUovJCoH4SLmg5",#方糖酱的地址如果没有可以删去
+            "email":"接受打卡信息的邮箱"
         }
 ,
         {
-            "username": "2018213525",
-            "password": "Kmszjrh1180811",
-            "location": "安徽省合肥市包河区",
-            "serverChan": "SCT59092TXjyst9KPcrvUovJCoH4SLmg5",
-            "email":"2039365653@qq.com"
+            "username": "20xxxxxx",
+            "password": "xxxxxxxxx",
+            "location": "xxxxxxxxx",
+            "serverChan": "xxxxxxxxxxxxxxxxxxxxxxx",
+            "email":"xxxxxxxxx@qq.com"
         }
     ]
 }
