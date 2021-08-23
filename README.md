@@ -4,6 +4,7 @@ Github_Action的设置
 (1)在Github中新建打开项目HFUT_Auto_daka
 
 (2)点击Star先把项目收藏（手动狗头），然后点击Fork的按钮将项目克隆到自己的Github仓库中
+![image](https://github.com/Mracm/HFUT-Auto_dake/tree/main/images/1.png)
 
 
 (3)需要进行如下的设置，第一步对config.json进行编辑,填入需要打卡的学号、密码、打卡地址、邮箱、方糖酱地址设置
