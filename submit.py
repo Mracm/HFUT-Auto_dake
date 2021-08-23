@@ -17,9 +17,8 @@ def _format_addr(s):
 	name, addr = parseaddr(s)
 	return formataddr((Header(name, 'utf-8').encode(), addr))
 
-from_addr = '1181832103@qq.com'
-password = 'zwpmpbuwqhggjjbb' # 密码或邮箱授权码
-to_addr = '1181832103@qq.com'
+from_addr = 'xxxxxxxxxx@qq.com'#填入自己的邮箱
+password = 'xxxxxxxxxxxxxxxxxxxx' # 填入邮箱授权码
 smtp_server = 'smtp.qq.com'
 now = datetime.datetime.now().replace(microsecond=0)
 scheduled_time = datetime.timedelta(seconds=10)
